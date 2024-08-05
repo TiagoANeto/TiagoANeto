@@ -4,8 +4,6 @@
 
 <h3 align="left">I'm on a journey to become a fullstack programmer, and I intend to master all areas of programming.</h3>
 
-- 📚I’m currently learning PHP, Laravel and more about Back-end
-
 - ✉️How to reach me tiago98.ta@gmail.com
 
   <h2 align="left">About me:</h2>
